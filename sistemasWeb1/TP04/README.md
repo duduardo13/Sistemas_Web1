@@ -4,5 +4,5 @@
 
 **Aluno:** Vinicius Pontes - CB3025764
 
-Obs: O vídeo demonstrando o funcionamento da aplicação esta listado abaixo.
+Obs: O vídeo demonstrando o funcionamento abaixo:
 
