@@ -4,5 +4,3 @@
 
 **Aluno:** Vinicius Pontes - CB3025764
 
-Obs: O vídeo demonstrando o funcionamento abaixo:
-
